@@ -16,5 +16,5 @@
 
 # OUTPUT OF THE PROGRAMME_1 IS:
 
-https://github.com/user-attachments/assets/5c4bb242-1c2d-44d2-a4fb-4e9ff626636b
+![OUTPUT](https://github.com/user-attachments/assets/5c4bb242-1c2d-44d2-a4fb-4e9ff626636b)
 
